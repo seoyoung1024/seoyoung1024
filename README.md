@@ -9,7 +9,7 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 # 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung1024&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung1024)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung1024&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
