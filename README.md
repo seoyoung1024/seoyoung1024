@@ -7,6 +7,14 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 ---
 
+# 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 # 👩🏻‍💻 About Me
 
 - 🎓 한양여자대학교 빅데이터과 졸업
@@ -95,8 +103,8 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -112,7 +120,6 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
