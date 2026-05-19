@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=SeoYoung%20Joo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20AI%20Cloud&descAlignY=55&descSize=18" />
-# 👋 SeoYoung Joo
+
+  # 👋 SeoYoung Joo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+AI+%7C+Cloud;Always+Learning+and+Growing)](https://git.io/typing-svg)
 
