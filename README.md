@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:89f7fe,100:66a6ff&amp;height=260&amp;section=header&amp;text=SeoYoung%20Joo&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&amp;descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=260&section=header&text=SeoYoung%20Joo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&descAlignY=58" />
 
   <h3>꾸준히 성장하는 프론트엔드 개발자 주서영입니다 👋</h3>
 
@@ -8,7 +8,6 @@
     AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
   </p>
 </div>
-
 ---
 
 # 👩🏻‍💻 About Me
