@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=260&section=header&text=SeoYoung%20Joo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&descAlignY=58)
-
 <div align="center">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=260&section=header&text=SeoYoung%20Joo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&descAlignY=58" />
 ### 꾸준히 성장하는 프론트엔드 개발자 주서영입니다 👋
 
 사용자 경험을 중심으로  
@@ -44,11 +42,8 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 - 세대별 독서 장르 분석 및 시각화
 - 사용자 친화적 UI 구현
 
-# 🛠 Tech Stack
-
-## Frontend &amp; AI
-
-## DevOps &amp; Cloud
+### Tech
+`React` `FastAPI` `Python` `Chart.js`
 
 ---
 
@@ -139,11 +134,7 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 <div align="center">
 
-<a href="https://velog.io/@oka1313">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-
-<a href="mailto:oka1313@gmail.com">
+<a href="mailto:oka1313jungseo191024@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
