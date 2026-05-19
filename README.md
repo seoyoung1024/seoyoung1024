@@ -9,9 +9,9 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 # 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung1024&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung1024&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -103,8 +103,8 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=html&logoColor=white)
-![](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=css&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
