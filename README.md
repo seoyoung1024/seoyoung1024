@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=SeoYoung%20Joo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20&descAlignY=55&descSize=18" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+AI+%7C+Cloud;Always+Learning+and+Growing)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+AI+%7C+Cloud;Always+Learning+and+Growing)](https://git.io/typing-svg)
 
 꾸준히 성장하는 프론트엔드 개발자 주서영입니다.  
 사용자 경험을 중심으로 AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
