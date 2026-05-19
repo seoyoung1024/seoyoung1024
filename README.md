@@ -44,8 +44,11 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 - 세대별 독서 장르 분석 및 시각화
 - 사용자 친화적 UI 구현
 
-### Tech
-`React` `FastAPI` `Python` `Chart.js`
+# 🛠 Tech Stack
+
+## Frontend &amp; AI
+
+## DevOps &amp; Cloud
 
 ---
 
