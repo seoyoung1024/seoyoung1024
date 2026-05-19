@@ -1,15 +1,13 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=260&section=header&text=SeoYoung%20Joo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&descAlignY=58)
+<div align="center">
 
-# 꾸준히 성장하는 프론트엔드 개발자 주서영입니다 👋
+# 👋 SeoYoung Joo
 
-사용자 경험을 중심으로  
-AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+AI+%7C+Cloud;Always+Learning+and+Growing)](https://git.io/typing-svg)
 
----
+꾸준히 성장하는 프론트엔드 개발자 주서영입니다.  
+사용자 경험을 중심으로 AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
-# 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung1024&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
