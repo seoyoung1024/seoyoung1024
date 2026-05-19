@@ -103,8 +103,8 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=html&logoColor=white)
+![](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
