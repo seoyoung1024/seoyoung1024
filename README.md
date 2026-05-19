@@ -25,6 +25,7 @@
 # 🚀 Experience
 
 ## 채용연계형 AI 응용 클라우드 기반 풀스택 웹 개발자 과정
+
 **IT여성기업인협회 KIBWA**  
 2025.03 ~ 2025.08
 
@@ -45,6 +46,7 @@
 - 사용자 친화적 UI 구현
 
 ### Tech
+
 `React` `FastAPI` `Python` `Chart.js`
 
 ---
@@ -58,6 +60,7 @@
 - Gemini API 기반 피드백 리포트 생성
 
 ### Tech
+
 `React` `FastAPI` `Python` `Gemini API`
 
 ---
@@ -71,6 +74,7 @@
 - OpenAI API 활용 자동 리포트 생성
 
 ### Tech
+
 `React` `OpenCV` `FastAPI` `OpenAI API`
 
 ---
@@ -84,6 +88,7 @@
 - AR.js 기반 AR 카메라 기능 개발
 
 ### Tech
+
 `React` `AR.js` `Spring Boot` `Node.js` `Python`
 
 ---
@@ -91,40 +96,58 @@
 # 🛠 Tech Stack
 
 ## Frontend
+
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=000"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"/>
+
 </div>
 
-<br>
+<br />
 
 ## Backend &amp; AI
+
 <div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
+
 </div>
 
-<br>
+<br />
 
 ## DevOps &amp; Cloud
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white"/>
+
 </div>
 
 ---
 
-# 🏆 Awards & Certificates
+# 🏆 Awards &amp; Certificates
 
 - 🥉 2022 환경데이터 분석 활용 공모전 장려상
 - 🥉 2025 SW전문인재양성 우수성과 공유 컨퍼런스 장려상
 
 ### Certificates
+
 - ITQ 한글엑셀 A등급
 - 리눅스마스터 2급
 - 정보처리기사 (예정)
@@ -137,7 +160,9 @@
 <div align="center">
 
 <a href="mailto:oka1313jungseo191024@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+
 </a>
 
 </div>
