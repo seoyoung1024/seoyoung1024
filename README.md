@@ -15,7 +15,7 @@
 
 - 🎓 한양여자대학교 빅데이터과 졸업
 - 📚 방송통신대학교 컴퓨터과학과 재학 중
-- ☁️ AWS · Docker · Kubernetes · MSA 학습 중
+- ☁️ AWS · Docker · MSA 학습 중
 - 💻 React 기반 프론트엔드 개발 중심
 - 🌱 AI 활용 웹 서비스 프로젝트 경험
 - 🇯🇵 일본 및 해외 개발자 취업 목표
@@ -136,4 +136,4 @@
 
 # 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oka1313jungseo191024@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungseo101924@gmail.com)
