@@ -1,74 +1,147 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcometoMyGitHub!%&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=260&section=header&text=SeoYoung%20Joo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=만나서+반가워요!;꾸준히+성장하는+프론트엔드개발자+주서영입니다.)](https://git.io/typing-svg)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+
+### 꾸준히 성장하는 프론트엔드 개발자 주서영입니다 👋
+
+사용자 경험을 중심으로  
+AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
+
 </div>
 
+---
+
+# 👩🏻‍💻 About Me
+
+- 🎓 한양여자대학교 빅데이터과 졸업
+- 📚 방송통신대학교 컴퓨터과학과 재학 중
+- ☁️ AWS · Docker · Kubernetes · MSA 학습 중
+- 💻 React 기반 프론트엔드 개발 중심
+- 🌱 AI 활용 웹 서비스 프로젝트 경험
+- 🇯🇵 일본 및 해외 개발자 취업 목표
+
+---
+
+# 🚀 Experience
+
+## 채용연계형 AI 응용 클라우드 기반 풀스택 웹 개발자 과정
+**IT여성기업인협회 KIBWA**  
+2025.03 ~ 2025.08
+
+- React, Node.js, FastAPI, AWS, Docker 기반 팀 프로젝트 수행
+- MSA 구조 기반 웹 서비스 개발 경험
+- GitHub 협업 및 API 연동 경험
+
+---
+
+# 📌 Projects
+
+## 📚 독서 트렌드 분석 웹 서비스
+
+> 공공도서관 대출 데이터를 활용한 세대별 독서 취향 분석 서비스
+
+- 도서관 정보나루 API 연동
+- 세대별 독서 장르 분석 및 시각화
+- 사용자 친화적 UI 구현
+
+### Tech
+`React` `FastAPI` `Python` `Chart.js`
+
+---
+
+## 🎤 발표 피드백 도우미
+
+> 발표 습관 분석 및 AI 피드백 제공 서비스
+
+- STT 기반 음성 텍스트 변환
+- 말 속도(SPM) 및 필러워드 분석
+- Gemini API 기반 피드백 리포트 생성
+
+### Tech
+`React` `FastAPI` `Python` `Gemini API`
+
+---
+
+## 🌱 식물 성장 분석 AI
+
+> 식물 성장 데이터를 분석하고 리포트를 생성하는 AI 서비스
+
+- OpenCV 기반 성장도 추적
+- 이미지 업로드 기반 변화 분석
+- OpenAI API 활용 자동 리포트 생성
+
+### Tech
+`React` `OpenCV` `FastAPI` `OpenAI API`
+
+---
+
+## 🏮 도시.락 (졸업 프로젝트)
+
+> 지역 축제 통합 플랫폼
+
+- 축제 데이터 크롤링 및 정제
+- React 기반 반응형 UI 구현
+- AR.js 기반 AR 카메라 기능 개발
+
+### Tech
+`React` `AR.js` `Spring Boot` `Node.js` `Python`
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
 <br>
 
+## Backend & AI
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+## DevOps & Cloud
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </div>
 
-<br>
+---
 
-<h3 align="center">🛠 Tools 🛠</h3>
+# 🏆 Awards & Certificates
+
+- 🥉 2022 환경데이터 분석 활용 공모전 장려상
+- 🥉 2025 SW전문인재양성 우수성과 공유 컨퍼런스 장려상
+
+### Certificates
+- ITQ 한글엑셀 A등급
+- 리눅스마스터 2급
+- 정보처리기사 (예정)
+- ADsP (예정)
+
+---
+
+# 📫 Contact
+
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+<a href="https://velog.io/@oka1313">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
 
-<br>
+<a href="mailto:oka1313@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
