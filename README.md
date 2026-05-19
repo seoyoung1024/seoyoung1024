@@ -103,7 +103,7 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 <br>
 
-## Backend & AI
+## Backend &amp; AI
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -112,7 +112,7 @@ AI와 데이터를 활용한 웹 서비스를 개발하고 있습니다.
 
 <br>
 
-## DevOps & Cloud
+## DevOps &amp; Cloud
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
