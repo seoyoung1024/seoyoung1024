@@ -1,4 +1,5 @@
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=260&section=header&text=SeoYoung%20Joo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Cloud&descAlignY=58" />
 
   <h3>꾸준히 성장하는 프론트엔드 개발자 주서영입니다 👋</h3>
